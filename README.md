@@ -4,6 +4,7 @@ Mediates access to JSON-RPC methods, used to interact with pieces of the MetaMas
 
 ## Installation
 
+
 `yarn add @metamask/permission-controller`
 
 or
